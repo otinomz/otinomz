@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @otinomz Richard Jacob
-- 👀 I’m Front End Developer, React js
+- 👀 front end Developer, React js
 - 📫 How to reach me awesomeotinomz@gmail.com, @otinomz on twitter and instagram
 
 <!---
