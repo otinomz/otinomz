@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @otinomz Richard Jacob
-- 👀 I’m interested in the Web and Front End Development, React/ Vue
-- 🌱 I’m currently learning UI/UX developemnt
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Front End Developer, React js
 - 📫 How to reach me awesomeotinomz@gmail.com, @otinomz on twitter and instagram
 
 <!---
