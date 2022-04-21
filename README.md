@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @otinomz Richard Jacob
 - 👀 front end Developer, React js, Next js, Typescript
+- Learning Solidity!
 - 📫 How to reach me awesomeotinomz@gmail.com, @otinomz on twitter and instagram
 
 <!---
