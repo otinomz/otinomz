@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @otinomz Richard Jacob
-- 👀 front end Developer, React js, Next js, Typescript
-- Learning Solidity!
-- 📫 How to reach me awesomeotinomz@gmail.com, @otinomz on twitter and instagram
+- 👋 Hi, I’m Richard Otinomo Jacob.
+- 👀 Front end Engineer.
+
+- 📫 How to reach me awesomeotinomz@gmail.com
 
 <!---
 otinomz/otinomz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
